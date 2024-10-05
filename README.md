@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankigilbert" target="blank"><img src="https://img.shields.io/twitter/follow/ankigilbert?logo=twitter&style=for-the-badge" alt="ankigilbert" /></a> </p>
 
-- 🌱 I’m currently learning **at ALX Africa**
+- 🌱 I’m  an **ALX Alumni**
 
-- 💬 Ask me about **c programming, python, front-end dependencies**
+- 💬 Ask me about **c programming, python, php, laravel, flask, django, front-end dependencies**
 
 - 📫 How to reach me **ankigilbertokosso@gmail.com**
 
